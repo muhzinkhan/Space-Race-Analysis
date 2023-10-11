@@ -1,0 +1,7 @@
+pandas
+matplotlib
+plotly-express
+nbformat
+seaborn
+ipykernel
+iso3166
