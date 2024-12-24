@@ -25,7 +25,6 @@ def save_csv(all_launches):
                 "Date",
                 "Detail",
                 "Rocket_Status",
-                "Mission Details",
                 "Price",
                 "Mission_Status",
             ]

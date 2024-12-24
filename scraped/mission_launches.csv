@@ -1,4 +1,4 @@
-Organisation,Location,Date,Detail,Rocket_Status,Mission Details,Price,Mission_Status
+Organisation,Location,Date,Detail,Rocket_Status,Price,Mission_Status
 CASC,"LC-9A, Taiyuan Satellite Launch Center, China","Thu Dec 5, 2024 10:11 GMT+5:30",Long March 6A | G60 Polar Group 03,StatusActive,,Success
 SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Thu Dec 5, 2024 08:35 GMT+5:30",Falcon 9 Block 5 | Starlink Group 9-14,StatusActive,69.75,Success
 VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Dec 4, 2024 23:29 GMT+5:30",Soyuz 2.1b | Cosmos 2580,StatusActive,20.0,Success
